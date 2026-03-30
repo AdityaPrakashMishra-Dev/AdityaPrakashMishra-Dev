@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&width=700&lines=🚀+3%2B+Years+Building+Scalable+Web+Applications;💡+MERN+%7C+Next.js+%7C+Nest.js+%7C+TypeScript+%7C+AWS;🏗️+100%2B+REST+APIs+%7C+8%2B+MERN+Apps+in+Production;🤖+OpenAI+Integrations+%7C+Real-Time+Systems;🔐+JWT+%7C+OAuth+%7C+Razorpay+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&width=700&lines=🚀+3.9%2B+Years+Building+Scalable+Web+Applications;💡+MERN+%7C+Next.js+%7C+Nest.js+%7C+TypeScript+%7C+AWS;🏗️+100%2B+REST+APIs+%7C+8%2B+MERN+Apps+in+Production;🤖+OpenAI+Integrations+%7C+Real-Time+Systems;🔐+JWT+%7C+OAuth+%7C+Razorpay+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,36 +23,40 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 About Me
 
-```typescript
-const aditya: Engineer = {
-  name:        "Aditya Prakash Mishra",
-  title:       "Full-Stack Software Engineer",
-  experience:  "3+ years",
-  location:    "India 🇮🇳",
-  current:     "Mplify Tech Services Pvt. Ltd",
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrakashMishra-Dev&layout=compact&theme=midnight-purple&hide_border=true&title_color=A855F7&bg_color=0d0d0d" width="300"/>
 
-  stack: {
-    frontend:  ["React.js", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js", "Nest.js", "REST APIs"],
-    database:  ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Prisma"],
-    cloud:     ["AWS (EC2 · S3 · RDS)", "Docker", "CI/CD Pipelines"],
-    auth:      ["JWT", "OAuth 2.0", "Razorpay"],
-    ai:        ["OpenAI API (ChatGPT Integration)"],
-  },
-
-  highlights: [
-    "⚡ Reduced app load time by 25% across 8+ MERN applications",
-    "📡 Designed & optimized 100+ REST APIs (+40% efficiency)",
-    "🤖 Integrated OpenAI for AI-powered meal planning & reporting",
-    "🛒 Built secure e-commerce with Razorpay payment gateway",
-  ],
-
-  currentlyExploring: ["Microservices", "System Design", "Cloud Architecture"],
-  contact: "adityaprakashmishra.dev@gmail.com",
-};
+```yaml
+Name     : Aditya Prakash Mishra
+Role     : Full-Stack Software Engineer
+Company  : Mplify Tech Services Pvt. Ltd
+Location : India 🇮🇳
+Exp      : 3.9+ Years
 ```
+
+<br/>
+
+![](https://img.shields.io/badge/⚡_Load_Time_Cut-25%25_Faster-A855F7?style=flat-square&labelColor=1a0533)
+![](https://img.shields.io/badge/📡_REST_APIs_Built-100%2B-0F6E56?style=flat-square&labelColor=0d2b22)
+![](https://img.shields.io/badge/🏗️_MERN_Apps-8%2B_Shipped-0C447C?style=flat-square&labelColor=0c1a3a)
+![](https://img.shields.io/badge/🤖_AI_Powered-OpenAI_Integrated-633806?style=flat-square&labelColor=2a1200)
+
+<br/>
+
+**🎯 What I do best:**
+
+- ⚡ Build and scale **MERN / Next.js / Nest.js** applications with clean architecture
+- 🔌 Design **100+ REST APIs** optimized for performance (+40% fetch efficiency)
+- 🤖 Integrate **OpenAI (ChatGPT)** for AI-powered features — meal planning, reports, real-time collab
+- 💳 Implement **secure payment flows** (Razorpay) and auth systems (JWT, OAuth 2.0)
+- ☁️ Deploy on **AWS (EC2, S3, RDS)** with Docker and CI/CD pipelines
+
+<br/>
+
+> 🔭 Currently levelling up: **Microservices** · **System Design** · **Cloud Architecture**
+
+<br clear="right"/>
 
 ---
 
