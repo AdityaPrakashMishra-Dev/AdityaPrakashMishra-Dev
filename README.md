@@ -217,7 +217,7 @@ Exp      : 3.9+ Years
   <tr>
     <td>🏆</td>
     <td><strong>Full-Stack Web Dev (MERN)</strong></td>
-    <td>MASAI School &nbsp;→&nbsp; <a href="#">View Certificate</a></td>
+    <td>MASAI School &nbsp;→&nbsp; <a href="https://drive.google.com/file/d/1MdakZrjnB8rA2GD09_LNTrPeFDVSK9JY/view">View Certificate</a></td>
     <td><code>Sep 2021 – Mar 2022</code></td>
   </tr>
 </table>
