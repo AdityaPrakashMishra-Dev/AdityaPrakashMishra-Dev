@@ -156,16 +156,7 @@ Exp      : 3.9+ Years
         <code>React.js</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT Auth</code> <code>RBAC</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FF9800?style=flat-square"/>
-      <br/><br/>
-      <p>Personal developer portfolio showcasing projects, skills, and professional work. Built for performance, accessibility, and clean user experience.</p>
-      <br/>
-      <p>
-        <a href="https://github.com/AdityaPrakashMishra-Dev/portfolio">→ View Repository</a>
-      </p>
-    </td>
+    
   </tr>
 </table>
 
